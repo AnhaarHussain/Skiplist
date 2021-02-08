@@ -1,0 +1,25 @@
+                                      "Following code is representing the implementation of Skiplist"
+                                                         
+                                                            "Code File includes"
+--This code includes two classes (Node , Skiplist)
+--This code includes three main functions that are "add" ,  "find" and "remove".
+--This code includes two supporting functions which includes "Pre_Node" and "Pick_Height".
+--This code includes "Print" function for the implementation of Skiplist.
+
+                                                                "How to Use"
+
+--First you have to give the maximum level you want.
+--You can insert your values in the skiplist by calling the "add" function in the code by giving it the key.
+--You can search your values in the skiplist by calling the "get" function in the code by providing the key.
+--You can delete your values in the skiplist by calling the "remove" function in the code.
+--You can use "print" function to display the implementation of skiplist.
+
+                                                                "Precautions"
+
+--Don't try to make changes in this code, if you try to do this , you will get error.
+--Some values are there in the driver code to show the implementation step by step.
+
+                                                             "Overall Complexity"
+
+--Each function in this code is implemented in O(logn).
+
